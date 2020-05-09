@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173179098802",
+    "firebase_url": "https://aidwise.firebaseio.com",
+    "project_id": "aidwise",
+    "storage_bucket": "aidwise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173179098802:android:25dbc25263bd17c9af9bab",
+        "android_client_info": {
+          "package_name": "jadhav.atharva.docapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173179098802-8kham6em1g6fn4og78608ao06q7cntu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkbQB2DJDhDsSDCuX8CsO1t19-28clXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173179098802-8kham6em1g6fn4og78608ao06q7cntu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
